@@ -1,0 +1,10 @@
+c:\users\calvin\documents\visual studio 2013\Projects\Smart Search Filter\Smart Search Filter\bin\Debug\Smart Search Filter.exe.config
+c:\users\calvin\documents\visual studio 2013\Projects\Smart Search Filter\Smart Search Filter\obj\Debug\Smart_Search_Filter.Resources.resources
+c:\users\calvin\documents\visual studio 2013\Projects\Smart Search Filter\Smart Search Filter\obj\Debug\Smart Search Filter.vbproj.GenerateResource.Cache
+c:\users\calvin\documents\visual studio 2013\Projects\Smart Search Filter\Smart Search Filter\bin\Debug\Smart Search Filter.exe
+c:\users\calvin\documents\visual studio 2013\Projects\Smart Search Filter\Smart Search Filter\bin\Debug\Smart Search Filter.pdb
+c:\users\calvin\documents\visual studio 2013\Projects\Smart Search Filter\Smart Search Filter\bin\Debug\Smart Search Filter.xml
+c:\users\calvin\documents\visual studio 2013\Projects\Smart Search Filter\Smart Search Filter\obj\Debug\Smart Search Filter.exe
+c:\users\calvin\documents\visual studio 2013\Projects\Smart Search Filter\Smart Search Filter\obj\Debug\Smart Search Filter.xml
+c:\users\calvin\documents\visual studio 2013\Projects\Smart Search Filter\Smart Search Filter\obj\Debug\Smart Search Filter.pdb
+c:\users\calvin\documents\visual studio 2013\Projects\Smart Search Filter\Smart Search Filter\obj\Debug\Smart_Search_Filter.frmUIForm.resources
